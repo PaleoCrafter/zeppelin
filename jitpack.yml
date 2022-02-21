@@ -1,0 +1,2 @@
+install:
+   - ./mvnw clean install -pl jdbc -am -DskipTests
